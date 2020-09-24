@@ -2,10 +2,14 @@ This file contain names of team members, grouped according to projects.
 Project Manager: Robert Antwi Rockson
 
 Realtime Low Voltage Network Visibility
+<<<<<<< HEAD
 <add name here>
 Christian Adusei
 Oduraa Quartey
 Robert Quainoo
+=======
+<ROBERT QUAINOO>
+>>>>>>> d5ead6f271d30cdcd4b4deac2deefd3bea94e28a
 
 Smart Socket
 <add name here>
@@ -13,6 +17,11 @@ Nana Akua Konadu Agyeman-Gyebi
 
 
 Smart Water
+<<<<<<< HEAD
 <add name here>
 Segbey Isaac
 Robert Quainoo
+=======
+<ROBERT QUAINOO>
+
+>>>>>>> d5ead6f271d30cdcd4b4deac2deefd3bea94e28a
